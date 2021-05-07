@@ -15,4 +15,4 @@ The data used in this project is sourced from the [Palmer Penguins](https://www.
 
 ## Rationale
 
-This is not a very complex project or an example of best practice; it's intended as a teaching aide to demonstrate the core concepts of model use and API creation.
+This is not a very complex project or an example of best practice; it's intended as a teaching aid to demonstrate the core concepts of model use and API creation.
