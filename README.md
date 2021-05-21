@@ -5,9 +5,17 @@ This repository contains code to do the following:
 1. Train a model to predict penguin species based on penguin dimensions
 2. Offer the above model's predictions as an API.
 
+## Installation
+
+`pip install -r requirements.txt`
+
+## Running
+
+`python app.py`
+
 ## Deployment
 
-The API is currently deployed on Heroku.
+The API is currently deployed on Heroku; the files in this repository are those required for it to run in that environment specifically.
 
 ## Data source
 
