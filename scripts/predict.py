@@ -18,5 +18,7 @@ def predict_penguin(penguin):
     # Add the penguin to the empty df    
     X = X.append(penguin, ignore_index=True)
 
+    print(X)
+
     # Return a prediction
     return model.predict(X)[0]
