@@ -1,9 +1,6 @@
 # Penguin Prediction
 
-This repository contains code to do the following:
-
-1. Train a model to predict penguin species based on penguin dimensions
-2. Offer the above model's predictions as an API.
+This branch contains starter code for an API that predicts penguin species based on dimensions. The `notebooks/` folder contains the code to train a predictive model; the API itself should be built in `app.py`.
 
 ## Installation
 
@@ -13,14 +10,6 @@ This repository contains code to do the following:
 
 `python app.py`
 
-## Deployment
-
-The API is currently deployed on Heroku; the files in this repository are those required for it to run in that environment specifically.
-
 ## Data source
 
 The data used in this project is sourced from the [Palmer Penguins](https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data) dataset.
-
-## Rationale
-
-This is not a very complex project or an example of best practice; it's intended as a teaching aid to demonstrate the core concepts of model use and API creation.
